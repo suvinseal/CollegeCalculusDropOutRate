@@ -1,3 +1,3 @@
 # Problem statement
 
-![](problem statement.png)
+![](problem%20statement.png)
